@@ -25,6 +25,6 @@ public class equipoService {
                 .map(this::toListDTO)
                 .collect(Collectors.toList());
     }
-    
+
 
 }
